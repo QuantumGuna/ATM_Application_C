@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1762267106 source:c:\users\gunab\onedrive\desktop\c codes\projects\atm application\options.c
+	<stdio.h>
+
+1762267302 source:c:\users\gunab\onedrive\desktop\c codes\projects\atm application\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1762266485 source:c:\users\gunab\onedrive\desktop\c codes\projects\atm application\balance.c
+	<stdio.h>
+
+1762266249 source:c:\users\gunab\onedrive\desktop\c codes\projects\atm application\withdraw.c
+	<stdio.h>
+
+1762266241 source:c:\users\gunab\onedrive\desktop\c codes\projects\atm application\deposit.c
+	<stdio.h>
+
+1762265978 source:c:\users\gunab\onedrive\desktop\c codes\projects\atm application\pin.c
+	<stdio.h>
+
+1762267034 source:c:\users\gunab\onedrive\desktop\c codes\projects\atm application\pin change.c
+	<stdio.h>
+
